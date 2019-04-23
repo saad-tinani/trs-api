@@ -1,4 +1,39 @@
 {
+  "permissions": [
+    {
+        "id": 1,
+        "name": "Imputation des temps",
+        "state": true
+    }, {
+        "id": 2,
+        "name": "Gestion des prévisions",
+        "state": true
+    }, {
+        "id": 3,
+        "name": "Tableau de bord",
+        "state": true
+    }, {
+        "id": 4,
+        "name": "Gestion des utilisateurs",
+        "state": true
+    }, {
+        "id": 5,
+        "name": "Gestion des applications",
+        "state": true
+    }, {
+        "id": 6,
+        "name": "Gestion des tâches",
+        "state": true
+    }, {
+        "id": 7,
+        "name": "Gestion des permissions",
+        "state": true
+    }, {
+        "id": 8,
+        "name": "Gestion des rôles",
+        "state": true
+    }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
